@@ -23,3 +23,4 @@ let clickContact = document.querySelector("#contactButton");
 clickContact.addEventListener('click', function(){
   window.location.href = "contact.html";
 });
+
