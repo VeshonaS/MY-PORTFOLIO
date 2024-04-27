@@ -166,14 +166,6 @@ color:white;
   height:250px;
 }
 
-#email{
-
-border: 2px solid  ;
-  margin: 3px;
-  padding: 7px;
-  font-family: 'Quicksand', sans-serif;
-
-}
 
 a{
 color:white;
@@ -189,3 +181,8 @@ text-decoration: underline;
 a:active {
 color:#48D0FF;
 } 
+
+h3{
+  color: white ;
+  font-family: 'Quicksand', sans-serif;
+}
