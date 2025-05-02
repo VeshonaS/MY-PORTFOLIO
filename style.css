@@ -102,6 +102,10 @@ animation-delay:.3s;
   }
 
 }
+.content{
+  justify-content:space-evenly;
+  display: flex;
+}
 
 
 .kyu{
@@ -110,7 +114,7 @@ animation-delay:.3s;
   height: 600px;
   float: right;
   display: flex;
-  margin-top: -100px;
+  margin-top: -20px;
 }
 
 .explain{
@@ -154,11 +158,6 @@ color:white;
   width: 200px;
   height:200px;
 }
-.content{
-  justify-content:space-evenly;
-  display: flex;
-}
-
 
 .kyutypes{
 
