@@ -59,11 +59,14 @@ footer{
 #flower{
     height: 300px;
     width: 300px;
+    
    
 }
 #logo{
     height: 300px;
     width: 300px;
+    margin: 50px;
+    margin-top: 3px;
 }
 /*france poster*/
 .francespace{
@@ -87,6 +90,12 @@ footer{
     border: none; 
     padding: 0;
     margin: 0;
+}
+#gogummy{
+  height: 400px;
+  width: 300px;
+  margin: 50px;
+  margin-top: 3px;
 }
 
 /*fancybutton area*/
